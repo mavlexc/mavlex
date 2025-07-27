@@ -1,4 +1,4 @@
-````
+````python
 dev_name = "mavlex"
 languages = "Python, Node.js (a bit), Java (a little bit for minecraft projects)"
 amountoflanguages = 3
